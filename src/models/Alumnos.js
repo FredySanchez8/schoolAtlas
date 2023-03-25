@@ -21,7 +21,7 @@ const alumnoEsquema = new Schema(
             trim: true,
         },
         fechaNacimiento: {
-            type: Date,
+            type: String,
             required: true,
             unique: false,
             trim: true,

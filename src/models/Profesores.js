@@ -31,7 +31,7 @@ const profesorEsquema = new Schema(
         },
 
         fechaNacimiento: {
-            type: Date,
+            type: String,
             required: true,
             unique: false,
             trim: true,
