@@ -1,4 +1,0 @@
-[[redirects]]
-from = "/*"
-to = "/proyecto/index.js"
-status = 200
